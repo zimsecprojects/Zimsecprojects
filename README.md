@@ -61,21 +61,21 @@ Replace the images below with your own screenshots.
 
 ### Screenshot 1
 
-[<img src="/assets/images/screenshot1.png"
+[<img src="Images/Screenshot_20260915_151453_Chrome.jpg"
 width="250"
-hspace="10" vspace="10">](/assets/images/screenshot1.png)
+hspace="10" vspace="10">](Images/Screenshot_20260915_151453_Chrome.jpg)
 
 ### Screenshot 2
 
-[<img src="/assets/images/screenshot2.png"
+[<img src="Images/Screenshot_20260915_151453_Chrome.jpg"
 width="250"
-hspace="10" vspace="10">](/assets/images/screenshot2.png)
+hspace="10" vspace="10">](Images/Screenshot_20260915_151530_Chrome.jpg)
 
 ### Screenshot 3
 
-[<img src="/assets/images/screenshot3.png"
+[<img src="Images/Screenshot_20260915_151534_Chrome.jpg"
 width="250"
-hspace="10" vspace="10">](/assets/images/screenshot3.png)
+hspace="10" vspace="10">](Images/Screenshot_20260915_151534_Chrome.jpg)
 
 ---
 
