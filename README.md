@@ -1,7 +1,7 @@
 📚 ZIMSEC HBC PROJECTS 🇿🇼
 
 <p align="center">
-  <img src="Images/Screenshot_20260915_151534_Chrome.jpg"
+  <img src="Images/Screenshot_202609_151534_Chrome.jpg"
        alt="ZIMSEC HBC PROJECTS Zimbabwe Heritage Based Curriculum Projects"
        width="900">
 </p><h1 align="center">ZIMSEC HBC PROJECTS</h1><p align="center">
