@@ -1,94 +1,84 @@
-# ZIMSEC PROJECTS
+# 📚 ZIMSEC Digital Resource Library
 
-<img src="/assets/images/zimsec_logo.png" align="left"
-width="200" hspace="10" vspace="10">
+[![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/YOUR-REPO-NAME?style=social)](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/YOUR-USERNAME/YOUR-REPO-NAME?style=social)](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/network/members)
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
 
-**ZIMSEC PROJECTS** is a platform designed to help Zimbabwean learners access and prepare their ZIMSEC Heritage-Based Curriculum (HBC) projects.
+**A clean, centralized platform for accessing ZIMSEC past papers, notes, and educational project guides.**
+
+---
+
+## ✨ Overview
+
+This project provides a user-friendly, responsive web interface for students to quickly find and **view** ZIMSEC resources across Primary, O-Level, and A-Level academic levels. Built with a modern **Marine Blue & Electric Orange** theme for optimal readability.
+
+**Key Features:**
+
+* **View Only:** Papers are viewed directly via the secure Google Docs Viewer, ensuring resource integrity and a consistent user experience.
+* **Academic Levels:** Dedicated sections for Primary, O-Level, and A-Level (Coming Soon) resources.
+* **Project Ordering:** Dedicated channel for ordering website development and Heritage Based Projects.
+* **Simple & Fast:** Pure HTML, CSS, and minimal JavaScript for lightning-fast loading and zero dependencies.
+
+
+
+---
+
+## 🚀 Live Demo
+
+Check out the live version of the ZIMSEC Library to experience the smooth interface and easy navigation:
+
+🔗 **[VIEW LIVE WEBSITE HERE](https://zimsec-elonsk.vercel.app/)**
+
+---
+
+## 📱 Connect with Our Channels
+
+Stay updated with new resources and get direct support for project services.
+
+---
+
+### 1. ZIMSEC Past Papers Channel (Resources & Updates)
+
+Join our primary channel for daily study materials, papers, and important ZIMSEC updates.
 
 <p align="left">
-<a href="https://zimsecstudypack.base44.app">
-    <img alt="Visit ZIMSEC PROJECTS"
-        height="90"
-        src="/assets/images/website_badge.png" />
-</a>
+  <a href="https://whatsapp.com/channel/0029VbAdOQuFi8xTtr39BB1D" target="_blank">
+    <img src="images/ZIMSEC.png" alt="ZIMSEC Past Papers Channel Icon" width="100" height="100" style="vertical-align: middle; border-radius: 50%;">
+  </a>
+  <span style="font-size: 1.2em; font-weight: bold; margin-left: 20px;">
+    Click the icon to join the **Past Papers Channel**!
+  </span>
 </p>
 
-**Website:** [ZIMSEC PROJECTS](https://zimsecprojects.github.io)
-
-**Project AI:** [ZIMSEC STUDY PACK](https://zimsecstudypack.base44.app)
-
 ---
 
-## Support 💗
+### 2. Heritage Based Projects (Order Services & Guides)
 
-ZIMSEC PROJECTS is created to make project preparation easier for learners.
+Use this channel to inquire about our web design services, custom resource pages, and to order our **FULLY DONE PROJECT GUIDES**.
 
-You can support the project by:
-
-* Sharing the platform with other learners.
-* Suggesting new project topics and features.
-* Reporting bugs and technical problems.
-* Sharing useful ZIMSEC project resources.
-
----
-
-## About
-
-**ZIMSEC PROJECTS** helps learners create, understand and prepare their Heritage-Based Curriculum projects.
-
-The platform is designed to provide simple, clear and learner-friendly project assistance from **Stage 1 to Stage 6**.
+<p align="left">
+  <a href="https://whatsapp.com/channel/0029Vb5xkBR4inojmTL7FZ3p" target="_blank">
+    <img src="images/projects.webp" alt="Heritage Based Projects Channel Icon" width="100" height="100" style="vertical-align: middle; border-radius: 50%;">
+  </a>
+  <span style="font-size: 1.2em; font-weight: bold; margin-left: 20px;">
+    Need a website? Order your project guides here!
+  </span>
+</p>
 
 ---
+## 🛠️ Technology Stack
 
-## Features
-
-ZIMSEC PROJECTS lets learners:
-
-- Create ZIMSEC HBC projects.
-- Generate projects from **Stage 1 to Stage 6**.
-- Work with different subjects and topics.
-- Develop and refine a chosen solution.
-- Get simple and clear project content.
-- Access project resources and study materials.
-- Prepare projects for school presentation.
-- Use the platform on mobile devices.
+| Technology | Purpose |
+| :--- | :--- |
+| **HTML5** | Structure and Content |
+| **CSS3** | Styling (Marine Blue/Electric Orange Theme) |
+| **JavaScript** | Handling the `viewPdf()` function logic |
+| **Google Drive** | Secure PDF hosting and viewing via Google Docs Viewer |
+| **Font Awesome** | Icons (`fa-eye`, `fa-calculator`, etc.) |
 
 ---
+## 📂 Project Structure
 
-## Screenshots
-
-Replace the images below with your own screenshots.
-
-### Screenshot 1
-
-[<img src="Images/Screenshot_20260915_151453_Chrome.jpg"
-width="250"
-hspace="10" vspace="10">](Images/Screenshot_20260915_151453_Chrome.jpg)
-
-### Screenshot 2
-
-[<img src="Images/Screenshot_20260915_151453_Chrome.jpg"
-width="250"
-hspace="10" vspace="10">](Images/Screenshot_20260915_151530_Chrome.jpg)
-
-### Screenshot 3
-
-[<img src="Images/Screenshot_20260915_151534_Chrome.jpg"
-width="250"
-hspace="10" vspace="10">](Images/Screenshot_20260915_151534_Chrome.jpg)
-
----
-
-## Links
-
-🌐 **ZIMSEC PROJECTS Website:**  
-https://zimsecprojects.github.io
-
-🤖 **ZIMSEC STUDY PACK:**  
-https://zimsecstudypack.base44.app
-
----
-
-## ZIMSEC PROJECTS 🇿🇼
-
-**Making ZIMSEC HBC projects easier, clearer and more accessible.**
+The repository follows a clean, easy-to-navigate structure:
+🤝 Contribution & ContactThis project is maintained by ELONSK TP. For support, questions, or to hire us for your own project:Email:usokp99@gmail.comDirect WhatsApp Chat (for Services): Use the Heritage Based Projects Channel Link.
